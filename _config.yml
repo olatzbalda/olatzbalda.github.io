@@ -1,7 +1,9 @@
 title: Portafolio de Olatz Balda
 description: Bienvenido a mi página. Soy una estudiante de Comunicación de la Universidad de Deusto. Este es mi repositorio de la asignatura 'Mensajes para la Web'.
-url: "http://olatzbalda.github.io"
+
+url: http://olatzbalda.github.io
 baseurl: ""
+
 author:
   name: Olatz balda
   picture: 
@@ -16,4 +18,6 @@ author:
     - title: GitHub
       url: https://github.com/olatzbalda
       icon: fab fa-github-square
+
 remote_theme: ndrewtl/airspace-jekyll
+markdown: kramdown
