@@ -1,2 +1,17 @@
 title: Portafolio de Olatz Balda
+description: Bienvenido a mi página Soy una estudiante de Comunicación de la Universidad de Deusto. Este es mi repositorio de la asignatura 'Mensajes para la Web'.
+author:
+  name: Olatz balda
+  picture: 
+  email: olatzbalda@opendeusto.es
+  links:
+    - title: Twitter
+      url: https://twitter.com/olatzbalda
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/olatzbalda
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/olatzbalda
+      icon: fab fa-github-square
 theme: jekyll-theme-cayman
