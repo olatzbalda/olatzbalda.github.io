@@ -19,5 +19,5 @@ author:
       url: https://github.com/olatzbalda
       icon: fab fa-github-square
 
-remote_theme: ndrewtl/airspace-jekyll
+remote_theme: mberasategi/airspace-jekyll
 markdown: kramdown
