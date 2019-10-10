@@ -1,5 +1,5 @@
 ---
-title: Título del post
+title: Mi primer post
 date: 2019-10-10
 ---
 
