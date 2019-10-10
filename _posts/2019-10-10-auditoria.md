@@ -1,0 +1,147 @@
+- - -
+title: Auditoria
+data: 2019-10-10
+draft: true
+tags: [etiqueta1], [etiqueta2]
+- - - 
+# Auditoria 
+
+Una auditoría de contenido web es una contabilidad del contenido que la organización tien online. 
+
+Hay herraminetas de auditoria (robots) que ayudan a: 
+
+* obtener resultados rápidos
+
+* crear lostas de contenido
+
+*evitar discursiones generadas por el contenido, porque en este caso el contenido ha sido creado tecnoló
+gicamente. 
+
+## Tipos de auditorías
+
+1.**Cualitativa**: hacer un inventorio del contenido
+
+Para hacer una auditoria hay que saber: 
+
+  * objetivos
+
+  * qué queremos aprender
+
+  * cuánto tiempo disponemos 
+
+  * qué queremos probar
+
+  * en qué punto del proceso estamos
+
+La auditoría cualitativa es realizada por robots a la hora de recoger datos objetivos. Para hacer un inventorio hay que señalar el contenido de la siguiente forma: 
+
+  * ID
+
+  * Titular el contenido
+
+  * URL
+
+  * Formato
+
+  *Fuente
+
+  * Technical home (en qué servidor está)
+
+  * metadata: mediante atributos (keywords)
+
+  * Tráfico y estadísticas de uso (hay análisis de esto)
+
+  * La última actualización 
+
+  * Idioma
+
+2.**Cualitativa**
+
+Son robots free, están hechos por humanos. 
+
+Hay dos tipos de auditorías cualitativas. 
+
+  2.1 Evaluación de las mejores prácticas: se hace una evaluación de las mejores prácticas mediante la comparación con las mejores prácticas de la industria. Sirve para saber si esa usable, persuasivo, divertido etc. 
+  
+  2.2 Evaluación estratégica: es la relación contenido- objetivos. Te ayuda a evaluar donde están los huecos y a saber qué hay que cambiar. Mezcla de análisis y recomendaciones
+
+  Factores de la auditoría cualitativa
+
+  * cuantas más herramientas de audición, mejor: usabilida,d nivel de conocimiento, facilidad de búsqueda, audiencia, exactitud, valor de negocios, mensaje que se quiere comunicar y reflejar exactamente la marca de la empresa.
+  
+ # Auditar mediante hojas de cálculo
+ 
+ Antes se hacía por hojas de cálculo. Ahora, el contenido no está asignado a una página y puede variar dependiendo de: 
+ 
+ * preferencias
+ 
+ * actitud de los usuarios
+ 
+ * dispositivo
+ 
+ (Las herramientas están cambiando, aunqueb también se utilizan spreadsheets)
+ 
+ ## Tipos: 
+ 
+ 1. La hoja de estilo básica: en páginas que están asignadas a una página de inicio o que tengan muchas páginas detras ordenadas. La división utilizada para organizar las páginas es la siguiente: páginas primarias como **parent/primary** y secundarias como **secundary/children**. 
+ 
+ 2. Hoja de estilo 2.0: para el formato cambiante (del ordenador al móvil, por ejemplo). Se escoge el formato más común, se divide el contenido y después se añaden las variaciones en las hojas de cálculo. 
+ 
+ 3. Inventorio Indexado: Está hecho para el contenido que no puede ser anaizado/auditado en un esquema/hoja de estilo. Pasos: 
+ 
+   3.1 Obtener una lista de las piezas del contenido de desarrollo web
+   
+   3.2 Documentar las características del usuario 
+   
+   3.3 Categorizar el contenido para su posterior análisis. 
+   
+ # Necesitamos revisar todo el contenido?
+ 
+ Si tenemos menos de 10.000 páginas si, si tenemos 25.000, 100.000 o millones hay dos opciones: 
+ 
+** Muestreo del contenido
+
+** Auditoría contínua 
+   
+ ## Muestreo del contenido
+ 
+ Selección del muestro dependiento de los siguientes criterios: 
+ 
+ * Ir a por el objetivo general
+ 
+ * Priorizar por quienes más lo usan
+ 
+ * Hacer un mix con la gente que crea el contenido ( ir relevando grupos, content ownership)
+ 
+ * Tener en cuenta la actualización y la frecuencia del mantenimiento
+ 
+ * Profundidad: en algunos casos hay que hacer una evaluación profunda porque es en las páginas profundas donde están los problemas.
+ 
+ ## ¿Cuánto contenido es suficiente para la muestra?
+ 
+ * Muestra pequeña (-10.000 páginas): con analizar la mitad suficiente. 
+ 
+ * Muestra grande (+10.000 páginas): hay que reconocer **patrones** porque no hay tiempo para analizarlo todo. 
+ 
+ ## Auditoría contínua
+ 
+ Se hace una evaluación constante de varias partes. Primero se evalúa una parte y despúes otra hasta acabar y comenzar de nuevo. De esta forma todo se analiza mejor y más amenudo. 
+ 
+ # Tabular los resultados 
+ 
+ Una vez que se realiza la auditoría se tienen que analizar los datos obtenidos. Surgirán presguntas como estas: 
+ 
+ * Cúanto contenido tenemos?
+ 
+ * Qué áreas evalúo?
+ 
+ * Tengo un contenido desproporcionado de datos?
+ 
+ * Cuanto contenido puede ser antiguo o incorrecto?
+ 
+ 
+ 
+  
+  
+  
+ 
