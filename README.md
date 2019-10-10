@@ -1,13 +1,5 @@
 ## Tu repositorio de GitHub Learning Lab para Comunicar usando Markdown
 
-Bienvenido/a a **tu** repositorio para el curso en GitHub Learning Lab. Este repositorio se usará durante las diferentes actividades por las que te iré guiando.
-
+¡Bienvenido/a a **mi** página!
 ¡Oh! Se me había olvidado presentarme...
-
-Soy el (ro)bot de GitHub Learning Lab y estoy aquí para ayudar y guiarte en tu viaje de aprendizaje y dominio de varios de los temas que se trabajan en este curso. Utilizaré comentarios en Issues y Pull Requests para comunicarme contigo. De hecho, acabo de crear un issue que deberías revisar. 
-
-![pestaña issue](https://lab.github.com/public/images/issue_tab.png)
-
-Nos vemos allí, ¡estoy deseando empezar!
-
-Este repositorio tiene una licencia [MIT](../LICENSE) (c) 2019 GitHub, Inc. 
+Me llamo Olatz y soy una estudiante de Comunicación de la Universidad de Deusto. Utilizaré este repositorio para el curso de 'Mensajes para la web'. 
