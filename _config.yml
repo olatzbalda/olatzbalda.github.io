@@ -14,4 +14,4 @@ author:
     - title: GitHub
       url: https://github.com/olatzbalda
       icon: fab fa-github-square
-theme: jekyll-theme-cayman
+remote_theme: ndrewtl/airspace-jekyll
