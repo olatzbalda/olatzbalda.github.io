@@ -1,9 +1,9 @@
-- - -
+---
 title: Auditoria
 data: 2019-10-10
 draft: true
-tags: [etiqueta1], [etiqueta2]
-- - - 
+tags: [Auditorías], [contenidoweb]
+--- 
 # Auditoria 
 
 Una auditoría de contenido web es una contabilidad del contenido que la organización tien online. 
@@ -67,7 +67,7 @@ Hay dos tipos de auditorías cualitativas.
 
   Factores de la auditoría cualitativa
 
-  * cuantas más herramientas de audición, mejor: usabilida,d nivel de conocimiento, facilidad de búsqueda, audiencia, exactitud, valor de negocios, mensaje que se quiere comunicar y reflejar exactamente la marca de la empresa.
+  * Cuantas más herramientas de audición, mejor: usabilida, nivel de conocimiento, facilidad de búsqueda, audiencia, exactitud, valor de negocios, mensaje que se quiere comunicar y reflejar exactamente la marca de la empresa.
   
  # Auditar mediante hojas de cálculo
  
@@ -139,9 +139,40 @@ Hay dos tipos de auditorías cualitativas.
  
  * Cuanto contenido puede ser antiguo o incorrecto?
  
+ # Comparte los resultados
  
+ La hoja de cálculo es suficiente para ti pero los stakeholders necesitan un **informe de auditoría**. Este informe tiene 3 partes: 
+ 1. Resumen del proceso: establecer objetivos, factores de medición y resultados. 
  
-  
+ 2. Proveer una vía para visualizar los datos "en crudo": a través de un link por ejemplo. (Para aquellos stakeholders que quieran ver la hoja de cálculos. 
+ 
+ 3. Informe de hallazgos: Es un resumen con conclusiones y recomendaciones, se describen los factores de audición y se hace un resumen de las partes (por factor). 
+ 
+ Puedes llegar a tener diferentes informes en función de lo que los stakeholders. Tipos: 
+   
+   3.1 Informe formal con todo detalle: 
+    
+     ** Descripción de los factores
+     
+     ** Gráficos que expliquen los resultados
+    
+    ** Sección de datos
+    
+    ** Resultados relevantes
+    
+   3.2 Resumen casual: está dirigido a un público con un poco de conocimienot acerca del proceso. No va al detalle. 
+   
+    ** Resumen de los resultados
+    
+    ** Detalles que esclarecen areas problemáticas
+    
+   3.3 Tipo presentación: 
+   
+    ** Resumen de los resultados
+    
+    **Aportación de datos 
+ 
+   
   
   
  
