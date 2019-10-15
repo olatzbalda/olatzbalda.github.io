@@ -54,6 +54,20 @@ Hay muchas maneras de validar os PMV (producto mínimo viable). Existen técnica
     
     2. Estar dispuestos a probarlo todo el día de la pruea
     
-    3. Los bocetos se pueden utilizar para el feedback pero el equipo no aprenderá mucho
+    3. Los bocetos ( como los wireframes hechos a partir de Mockups clicables y no clicables)se pueden utilizar para el feedback pero el equipo no aprenderá mucho
+    
+ ## Técnicas de monitorización para el descubrimiento colaborativo y continuo 
+ 
+ 1. Estar en contacto con el *servicio al cliente*: integrarlos en el desarrollo del producto. 
+ 
+ 2. Hacer encuestas en el propio sitio web: formularios simples, enlaces a foros de atención al cliente etc.
+
+ 3. Mirar registros de búsqueda.
+ 
+ 4. Mirar las estadísticas de uso de la página. 
+ 
+ 5. Pruebas A/B: separa dos grupos, a uno le das el producto con un elemento nuevo añadido y a otro le das el producto en su versión anterior. Se hace una comparación de ambos grupos.
+    
+    
 
     
