@@ -1,6 +1,6 @@
 ---
 title: Auditoria
-data: 2019-10-10
+date: 2019-10-10
 draft: true
 tags: [Auditorías], [contenidoweb]
 --- 
