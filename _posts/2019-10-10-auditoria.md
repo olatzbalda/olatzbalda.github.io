@@ -52,7 +52,7 @@ Hay dos tipos de auditorías cualitativas.
 
   * Cuantas más herramientas de audición, mejor: usabilida, nivel de conocimiento, facilidad de búsqueda, audiencia, exactitud, valor de negocios, mensaje que se quiere comunicar y reflejar exactamente la marca de la empresa.
   
- # Auditar mediante hojas de cálculo
+ ## Auditar mediante hojas de cálculo
  
  Antes se hacía por hojas de cálculo. Ahora, el contenido no está asignado a una página y puede variar dependiendo de: 
  
@@ -62,7 +62,7 @@ Hay dos tipos de auditorías cualitativas.
  
  (Las herramientas están cambiando, aunqueb también se utilizan spreadsheets)
  
- ## Tipos: 
+ ### Tipos: 
  
 1. La hoja de estilo básica: en páginas que están asignadas a una página de inicio o que tengan muchas páginas detras ordenadas. La división utilizada para organizar las páginas es la siguiente: páginas primarias como **parent/primary** y secundarias como **secundary/children**. 
 2. Hoja de estilo 2.0: para el formato cambiante (del ordenador al móvil, por ejemplo). Se escoge el formato más común, se divide el contenido y después se añaden las variaciones en las hojas de cálculo. 
@@ -71,14 +71,14 @@ Hay dos tipos de auditorías cualitativas.
     2. Documentar las características del usuario   
     3. Categorizar el contenido para su posterior análisis. 
    
-# Necesitamos revisar todo el contenido?
+## Necesitamos revisar todo el contenido?
  
  Si tenemos menos de 10.000 páginas si, si tenemos 25.000, 100.000 o millones hay dos opciones: 
-    
-    ** Muestreo del contenido
-    ** Auditoría contínua 
    
- ## Muestreo del contenido
+   - Muestreo del contenido
+   - Auditoría contínua 
+   
+ ### Muestreo del contenido
  
  Selección del muestro dependiento de los siguientes criterios: 
  
