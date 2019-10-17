@@ -152,25 +152,25 @@ Hay dos tipos de auditorías cualitativas.
    
    3.1 Informe formal con todo detalle: 
     
-     ** Descripción de los factores
+      ** Descripción de los factores
      
-     ** Gráficos que expliquen los resultados
+      ** Gráficos que expliquen los resultados
     
-     ** Sección de datos
+      ** Sección de datos
     
-     ** Resultados relevantes
+      ** Resultados relevantes
     
    3.2 Resumen casual: está dirigido a un público con un poco de conocimienot acerca del proceso. No va al detalle. 
    
-     ** Resumen de los resultados
+      ** Resumen de los resultados
     
-     ** Detalles que esclarecen areas problemáticas
+      ** Detalles que esclarecen areas problemáticas
     
    3.3 Tipo presentación: 
    
-     ** Resumen de los resultados
+      ** Resumen de los resultados
     
-     ** Aportación de datos 
+      ** Aportación de datos 
  
    
   
