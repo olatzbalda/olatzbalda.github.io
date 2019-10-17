@@ -108,23 +108,22 @@ Hay dos tipos de auditorías cualitativas.
  
  # Comparte los resultados
  
- La hoja de cálculo es suficiente para ti pero los stakeholders necesitan un **informe de auditoría**. Este informe tiene 3 partes: 
+La hoja de cálculo es suficiente para ti pero los stakeholders necesitan un **informe de auditoría**. Este informe tiene 3 partes: 
+
 1. Resumen del proceso: establecer objetivos, factores de medición y resultados.  
 2. Proveer una vía para visualizar los datos "en crudo": a través de un link por ejemplo. (Para aquellos stakeholders que quieran ver la hoja de cálculos. 
-3. Informe de hallazgos: Es un resumen con conclusiones y recomendaciones, se describen los factores de audición y se hace un resumen de las partes (por factor). 
- 
- Puedes llegar a tener diferentes informes en función de lo que los stakeholders. Tipos: 
+3. Informe de hallazgos: Es un resumen con conclusiones y recomendaciones, se describen los factores de audición y se hace un resumen de las partes (por factor). Puedes llegar a tener diferentes informes en función de lo que los stakeholders. Tipos: 
     1.  Informe formal con todo detalle: 
-        ** Descripción de los factores 
-        ** Gráficos que expliquen los resultados
-        ** Sección de datos
-        ** Resultados relevantes
+        * Descripción de los factores 
+        * Gráficos que expliquen los resultados
+        * Sección de datos
+        * Resultados relevantes
     2. Resumen casual: está dirigido a un público con un poco de conocimienot acerca del proceso. No va al detalle. 
-        ** Resumen de los resultados
-        ** Detalles que esclarecen areas problemáticas
+        * Resumen de los resultados
+        * Detalles que esclarecen areas problemáticas
     3. Tipo presentación: 
-       ** Resumen de los resultados
-       ** Aportación de datos 
+       * Resumen de los resultados
+       * Aportación de datos 
  
    
   
