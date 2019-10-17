@@ -78,7 +78,7 @@ Hay dos tipos de auditorías cualitativas.
    - Muestreo del contenido
    - Auditoría contínua 
    
- ### Muestreo del contenido
+ #### Muestreo del contenido
  
  Selección del muestro dependiento de los siguientes criterios: 
  
@@ -87,17 +87,17 @@ Hay dos tipos de auditorías cualitativas.
  * Hacer un mix con la gente que crea el contenido ( ir relevando grupos, content ownership) 
  * Tener en cuenta la actualización y la frecuencia del mantenimiento 
  * Profundidad: en algunos casos hay que hacer una evaluación profunda porque es en las páginas profundas donde están los problemas.
+
+ #### Auditoría contínua
  
- ## ¿Cuánto contenido es suficiente para la muestra?
+ Se hace una evaluación constante de varias partes. Primero se evalúa una parte y despúes otra hasta acabar y comenzar de nuevo. De esta forma todo se analiza mejor y más amenudo. 
+ 
+  ### ¿Cuánto contenido es suficiente para la muestra?
  
  * Muestra pequeña (-10.000 páginas): con analizar la mitad suficiente.  
  * Muestra grande (+10.000 páginas): hay que reconocer **patrones** porque no hay tiempo para analizarlo todo. 
  
- ## Auditoría contínua
- 
- Se hace una evaluación constante de varias partes. Primero se evalúa una parte y despúes otra hasta acabar y comenzar de nuevo. De esta forma todo se analiza mejor y más amenudo. 
- 
- # Tabular los resultados 
+ ## Tabular los resultados 
  
  Una vez que se realiza la auditoría se tienen que analizar los datos obtenidos. Surgirán presguntas como estas: 
  
@@ -106,7 +106,7 @@ Hay dos tipos de auditorías cualitativas.
  * Tengo un contenido desproporcionado de datos? 
  * Cuanto contenido puede ser antiguo o incorrecto?
  
- # Comparte los resultados
+ ## Comparte los resultados
  
 La hoja de cálculo es suficiente para ti pero los stakeholders necesitan un **informe de auditoría**. Este informe tiene 3 partes: 
 
