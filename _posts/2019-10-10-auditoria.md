@@ -1,10 +1,10 @@
 ---
-title: Auditoria
+title: Auditoría
 date: 2019-10-10
 draft: true
 tags: ["auditorías", "contenidoweb"]
 --- 
-# Auditoria 
+# Auditoría 
 
 Una auditoría de contenido web es una contabilidad del contenido que la organización tien online. 
 
