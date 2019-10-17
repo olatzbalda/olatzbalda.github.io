@@ -2,7 +2,7 @@
 title: Auditoria
 date: 2019-10-10
 draft: true
-tags: [Auditorías], [contenidoweb]
+tags: ["auditorías", "contenidoweb"]
 --- 
 # Auditoria 
 
