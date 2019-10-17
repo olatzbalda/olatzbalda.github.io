@@ -12,12 +12,11 @@ Hay herraminetas de auditoria (robots) que ayudan a:
 
 * obtener resultados rápidos
 * crear lostas de contenido
-*evitar discusiones generadas por el contenido, porque en este caso el contenido ha sido creado tecnoló
-gicamente. 
+* evitar discusiones generadas por el contenido, porque en este caso el contenido ha sido creado tecnológicamente. 
 
 ## Tipos de auditorías
 
-1.**Cualitativa**: hacer un inventorio del contenido
+1. **Cualitativa**: hacer un inventorio del contenido
 
 Para hacer una auditoria hay que saber: 
 
@@ -33,21 +32,21 @@ La auditoría cualitativa es realizada por robots a la hora de recoger datos obj
   * Titular el contenido
   * URL
   * Formato
-  *Fuente
+  * Fuente
   * Technical home (en qué servidor está)
   * metadata: mediante atributos (keywords)
   * Tráfico y estadísticas de uso (hay análisis de esto)
   * La última actualización 
   * Idioma
 
-2.**Cualitativa**
+2. **Cualitativa**
 
 Son robots free, están hechos por humanos. 
 
 Hay dos tipos de auditorías cualitativas. 
 
-  2.1 Evaluación de las mejores prácticas: se hace una evaluación de las mejores prácticas mediante la comparación con las mejores prácticas de la industria. Sirve para saber si esa usable, persuasivo, divertido etc. 
-  2.2 Evaluación estratégica: es la relación contenido- objetivos. Te ayuda a evaluar donde están los huecos y a saber qué hay que cambiar. Mezcla de análisis y recomendaciones
+  1. Evaluación de las mejores prácticas: se hace una evaluación de las mejores prácticas mediante la comparación con las mejores prácticas de la industria. Sirve para saber si esa usable, persuasivo, divertido etc. 
+  2. Evaluación estratégica: es la relación contenido- objetivos. Te ayuda a evaluar donde están los huecos y a saber qué hay que cambiar. Mezcla de análisis y recomendaciones
 
   Factores de la auditoría cualitativa
 
@@ -65,20 +64,19 @@ Hay dos tipos de auditorías cualitativas.
  
  ## Tipos: 
  
- 1. La hoja de estilo básica: en páginas que están asignadas a una página de inicio o que tengan muchas páginas detras ordenadas. La división utilizada para organizar las páginas es la siguiente: páginas primarias como **parent/primary** y secundarias como **secundary/children**. 
- 2. Hoja de estilo 2.0: para el formato cambiante (del ordenador al móvil, por ejemplo). Se escoge el formato más común, se divide el contenido y después se añaden las variaciones en las hojas de cálculo. 
- 3. Inventorio Indexado: Está hecho para el contenido que no puede ser anaizado/auditado en un esquema/hoja de estilo. Pasos: 
- 
-   3.1 Obtener una lista de las piezas del contenido de desarrollo web
-   3.2 Documentar las características del usuario   
-   3.3 Categorizar el contenido para su posterior análisis. 
+1. La hoja de estilo básica: en páginas que están asignadas a una página de inicio o que tengan muchas páginas detras ordenadas. La división utilizada para organizar las páginas es la siguiente: páginas primarias como **parent/primary** y secundarias como **secundary/children**. 
+2. Hoja de estilo 2.0: para el formato cambiante (del ordenador al móvil, por ejemplo). Se escoge el formato más común, se divide el contenido y después se añaden las variaciones en las hojas de cálculo. 
+3. Inventorio Indexado: Está hecho para el contenido que no puede ser anaizado/auditado en un esquema/hoja de estilo. Pasos:
+    1. Obtener una lista de las piezas del contenido de desarrollo web
+    2. Documentar las características del usuario   
+    3. Categorizar el contenido para su posterior análisis. 
    
- # Necesitamos revisar todo el contenido?
+# Necesitamos revisar todo el contenido?
  
  Si tenemos menos de 10.000 páginas si, si tenemos 25.000, 100.000 o millones hay dos opciones: 
- 
-** Muestreo del contenido
-** Auditoría contínua 
+    
+    ** Muestreo del contenido
+    ** Auditoría contínua 
    
  ## Muestreo del contenido
  
@@ -111,23 +109,22 @@ Hay dos tipos de auditorías cualitativas.
  # Comparte los resultados
  
  La hoja de cálculo es suficiente para ti pero los stakeholders necesitan un **informe de auditoría**. Este informe tiene 3 partes: 
- 1. Resumen del proceso: establecer objetivos, factores de medición y resultados.  
- 2. Proveer una vía para visualizar los datos "en crudo": a través de un link por ejemplo. (Para aquellos stakeholders que quieran ver la hoja de cálculos. 
- 3. Informe de hallazgos: Es un resumen con conclusiones y recomendaciones, se describen los factores de audición y se hace un resumen de las partes (por factor). 
+1. Resumen del proceso: establecer objetivos, factores de medición y resultados.  
+2. Proveer una vía para visualizar los datos "en crudo": a través de un link por ejemplo. (Para aquellos stakeholders que quieran ver la hoja de cálculos. 
+3. Informe de hallazgos: Es un resumen con conclusiones y recomendaciones, se describen los factores de audición y se hace un resumen de las partes (por factor). 
  
  Puedes llegar a tener diferentes informes en función de lo que los stakeholders. Tipos: 
-   
-   3.1 Informe formal con todo detalle: 
-     ** Descripción de los factores 
-     ** Gráficos que expliquen los resultados
-     ** Sección de datos
-     ** Resultados relevantes
-   3.2 Resumen casual: está dirigido a un público con un poco de conocimienot acerca del proceso. No va al detalle. 
-     ** Resumen de los resultados
-     ** Detalles que esclarecen areas problemáticas
-   3.3 Tipo presentación: 
-     ** Resumen de los resultados
-     ** Aportación de datos 
+    1.  Informe formal con todo detalle: 
+        ** Descripción de los factores 
+        ** Gráficos que expliquen los resultados
+        ** Sección de datos
+        ** Resultados relevantes
+    2. Resumen casual: está dirigido a un público con un poco de conocimienot acerca del proceso. No va al detalle. 
+        ** Resumen de los resultados
+        ** Detalles que esclarecen areas problemáticas
+    3. Tipo presentación: 
+       ** Resumen de los resultados
+       ** Aportación de datos 
  
    
   
