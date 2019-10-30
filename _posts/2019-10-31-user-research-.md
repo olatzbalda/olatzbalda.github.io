@@ -62,7 +62,7 @@ Las actividades que puedas incluir dependerán del tiempo y del dinero que tenga
 - ¿Cuáles son los temas principales?
 - ¿Como voy a capturar la información?
 
-### Entrevistas
+### 1. Entrevistas
 
 Las entrevista son conversaciones organizadas entre compradores actuales o potenciales del site. 
 
@@ -75,7 +75,7 @@ Proceso básico y reocmendaciones:
 - No se deben preguntar cuestiones inductivas ( las preguntas con intención de obtener un tipo de información).
 - Las preguntas han de ser abiertas y neutrales. 
 
-### Investigación contextual
+### 2. Investigación contextual
 
 Se trata de una visita al lugar de trabajo de los particiapnete para observar y aprender de como trabajan. Combina la observación del usuario con la técnica de la entrevista. Uno dse debe sentar en la mesa de trabao del participante. 
 
@@ -98,7 +98,7 @@ Proceso básico y recomendaciones:
   - Una vez que están todos en la pared empezar a emparejar las declaraciones que sean similares. 
   - Una vez que estén los grupos formados empezar a etiquetarlos / nombrarlos. 
   
-  ### Encuestas
+  ### 3. Encuestas
   
   Se trata de preguntas bien definidas y distribuidas a una gran audiencia. Es una herramienta de medición cuantitativa creada a partir de preguntas cerradas, aunque también se puede captar información cualitativa. 
   
@@ -109,11 +109,11 @@ Proceso básico y recomendaciones:
   - Cuando se esté planificando hay que tener en cuenta: 
     1. En quién nos estamos focalizando.
     2. Qué método distribuira mejor nuestros resultados.
-    3. Cuanto tiempo están dispuestos a pasar haciendo la encuesta. 
-    4. Como sabrás cuando empezar a analizar todos los datos.
-    5. Qué tipos de herramietnas utilizarás cuando recojas y analices los datos. 
+    3. Cuánto tiempo están dispuestos a pasar haciendo la encuesta. 
+    4. Cómo sabrás cuando empezar a analizar todos los datos.
+    5. Qué tipos de herramientas utilizarás cuando recojas y analices los datos. 
   
-### Focus groups
+### 4. Focus groups
 
 Se trata de reunir a una variedad de personas del público objetivo y facilitar el debate entre ellos. 
 1. Hay que escuchar la variedad de las historias que tienen por contar: Es una discusión abierta. 
@@ -134,3 +134,25 @@ El proceso básico y recomendaciones:
    - Que hay muchos temas por tratar y que en algún punto puede que termines el debate. 
 - Es muy importante el lenguaje no verbal: puede dar indicios de que una persona se siente enfadada o frustradas con alguna cuestión. 
 
+### 5. Clasificación de tarjetas
+
+En esta actividad se les dan unas cartas a los participantes para que los agrupen de manera cohesionada. En algunas ocasiones se proporcionan las categorias previamente y en otras carecen de esa información. En este tipo de actividades emergen patrones y areas comunes de confusión. 
+
+El proceso básico y recomendaciones: 
+- Se trata de entre 40 y 60 cartas.
+- Escoge items que sean fáciles de entender. 
+- Una vez que tengas todos los items ponlos en cartas para que resulte más fácil agruparlo o desagruparlo. 
+- Realizar un test previo preguntando a alguien que agrupe las cartas. Esto te ayudará a saber cuanto tiempo tardas en hacerlo.
+- Una vez finalizada la fase preparatoria, comienza con el participante real y dile que agrupe las cartas en grupos de al menos 2 cartas, y que nombre los grupos. 
+- Variaciones de clasificaión de tarjetas: 
+  1. Clasificación cerrada: Cuando tienes una clasificación cerrada la información que recibes es más facil de analizar y más rápida. 
+  2. Calisificaicón de grupos: Los participantes actuan conjuntamente en la clasificación de tarjetas. Esto te brinda menos infromación personal pero obtienes datos sobre como interactuan. 
+  3. Clasificaición remota: online. 
+  
+  ### 6. Prueba de usabilidad 
+  
+  Esta prueba trata de preguntar a los participantes que realicen tests a un sitio web o aplicación para saber de su potencial usabilidad. Los test de usabilidad se pueden realizar durante la fase de definición o en sitios web similares de la competencia. 
+  
+  ## Después de la investigación
+  
+  Una vez completado uno o más actividades de análisis de usuarios, toca replantearse las suposiciones que se tenían en un principio sobre los grupos más relevantes y sus definiciones. 
