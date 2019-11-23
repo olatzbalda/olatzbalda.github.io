@@ -1,0 +1,40 @@
+# Estilo de los textos en la web
+
+## Longitud de los textos
+
+Es más fácil perder la concentración al leer textos en pantalla que al leerlos en formato de papel. Ante la pantalla nos resulta imposible manterner la atención durante mucho tiempo. Se de acortar el tamaño del texto ( del formato en papel) y aprovechar la hipertextualidad para definir la jerarquía de contenidos y aligrar textos. 
+Se debe dividir el tema principal y los temas secundarios en varias páginas. 
+
+Las páginas web no han de tener textos con más de 1.000 palabras. Sin embargo, la longitud no es un problema relacionado ocn el número de palabras. Un texto puede ser largo y adecuado. En ese caso, se utilizrán listas, intertítulos o letra negrita para señalar lo más importante. 
+
+### Textos 50% más cortos 
+
+Es conveniente reducir los textos al 50% porque la lectura en pantalla es un 25% más lenta que en papel. Se deben eliminar los elementos poco importantes y descatar el contenido relevate para hacer que el lector se sienta bien. Para ello, de ha de detectar la información irrelevante y se han de modificar los hábitos de redacción - a través de los cuales introducimos contnido innecesario como citas, repreticiones, transiciones o afirmaciones no comprobadas- y discursos innecesarios - como el contenido que se suele poner en los espacios que no se sabe cómo estructurar (página principal)-.
+
+### Longitud de los documentos adjuntos 
+
+Los documentos en formato PDF no siguen los arametros de lectura de la web. Por tanto, se debe analizar el tipo de texto que se va a publicar ya que puede resultar una opción inadecuada ( como consecuencia de las dificultades aladidas de accesibilidad y las dificultades de navegación y uso de los mismos). 
+
+
+## Párrafos
+
+Los párrafos sirven para: 
+- Una mayor comprensión
+- Estructurar el texto
+- Cohesionar la información
+- Darle un ritmo marcado al texto
+
+Los párrafos han de tener una longitud de entre 3 y 5 líneas (40-70 palabras) y no deben contener más de 3 frases. Los párrafos cortos son más fáciles de leer porque se crean más espacios en blanco y se logran documentos más abiertos.
+
+Es recomendable poner párrafos de diferentes longitudes para aligerar la lectura y que no resulte monótona. El párrafo del comienzo ha de ser muy breve y resumir el tema que se va a tratar en el texto. 
+
+Por tanto, los textos en papel han de adaptarse a la web y en este proceso tienen que pasar por una reducción de palabras - evitando que el contenido pierda sentido- y desaglosando párrafos por cada idea mencionada ( después de haber fijado el tema, el objetivo y la razón por la que se ha incluido). 
+
+### Estructura de los párrafos
+
+La primera frase es muy importante porque resume la idea principal del párrafo. De este modo, se crea una pirámide invertida en la estrcuturación de información. Se recomienda que la primera frase sea la última en escribir, es decir, que se escoja una vez que se ha completado todo el párrafo. 
+
+Otro de los elementos de importnacia en la disposición de los párrafos es los marcadores textuales que muestran relaciones entre las ideas principales y secundarias. Marcan un orden, distinguen, continuan, detallan, razonan, resumen y concluyen. En muchas ocasiones se utilizan en exceso y ralentizan la lectura o suenan repetitivos; por eso, es recomendable hacer uso de ellos cuando sea exclusivamente necesario.
+
+
+## Frases 
